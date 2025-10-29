@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Lathe Machine",
+    "status": "Running",
+    "temperature": 75,
+    "energyConsumption": 1200,
+    "temperatureHistory": [68, 70, 72, 74, 75]
+  },
+  {
+    "id": 2,
+    "name": "CNC Milling Machine",
+    "status": "Idle",
+    "temperature": 65,
+    "energyConsumption": 800,
+    "temperatureHistory": [60, 62, 63, 64, 65]
+  },
+  {
+    "id": 3,
+    "name": "Injection Molding Machine",
+    "status": "Stopped",
+    "temperature": 85,
+    "energyConsumption": 1500,
+    "temperatureHistory": [80, 82, 83, 84, 85]
+  }
+]
